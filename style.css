@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@1,100&family=Playfair:ital,wght@1,300&family=Quattrocento+Sans:wght@700&display=swap');
+
+
+body{
+    background-color: darkblue;
+    font-family: 'Archivo', sans-serif;
+}
+
+.title{
+    background-color: whitesmoke;
+    padding: 50px 20px;
+    margin: 30px;
+    overflow: auto;
+    height: 10px;
+}
