@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: darkblue;
+    background-color: #8aa1b1;
     font-family: 'Archivo', sans-serif;
 }
 
@@ -12,4 +12,42 @@ body{
     margin: 30px;
     overflow: auto;
     height: 10px;
+}
+h1{
+    background-color: #2e4052;
+    color: whitesmoke;
+    padding: 120px;
+    text-align: center;
+    
+}
+header{
+    height: 300px;
+   
+    
+}
+footer{
+    background-color: #2e4052;
+    padding: 60px;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.button{
+  
+    margin-top: -40%;
+}
+nav{
+    text-align: center;
+    font-size: x-large;
+}
+.paragraph{
+    font-size: 30px;
+    margin-leftt: -20%;
+}
+.gallery-img{
+    width: 30%;
+}
+#paragraph1{
+    font-size: x-large;
+    
 }
